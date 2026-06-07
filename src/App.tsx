@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom'
+import { Navigate, Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 import Flashcards from './pages/Flashcards'
@@ -13,6 +13,7 @@ function App() {
         <Route path="cartes" element={<Flashcards />} />
         <Route path="fiches" element={<Sheets />} />
         <Route path="qcm" element={<Quizzes />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
     </Routes>
   )
