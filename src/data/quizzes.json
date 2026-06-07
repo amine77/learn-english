@@ -1,0 +1,338 @@
+[
+  {
+    "id": "quiz-present-tenses",
+    "level": "debutant",
+    "theme": "Grammaire — Temps",
+    "title": "Present Simple ou Present Continuous ?",
+    "questions": [
+      {
+        "question": "Choose the correct form: \"Look! It ___ outside.\"",
+        "options": ["rains", "is raining", "rain", "rained"],
+        "correctIndex": 1,
+        "explanation": "On utilise le present continuous pour décrire une action en cours au moment où l'on parle ('Look!' est un mot-indice)."
+      },
+      {
+        "question": "Choose the correct form: \"My father ___ to work by train every morning.\"",
+        "options": ["is going", "go", "goes", "going"],
+        "correctIndex": 2,
+        "explanation": "'Every morning' indique une habitude : on utilise le present simple, avec -es à la 3e personne du singulier."
+      },
+      {
+        "question": "Choose the correct form: \"We ___ a film at the moment, can you call back later?\"",
+        "options": ["watch", "watches", "are watching", "watched"],
+        "correctIndex": 2,
+        "explanation": "'At the moment' indique une action en cours : present continuous (BE + V-ing)."
+      },
+      {
+        "question": "Choose the correct form: \"Water ___ at zero degrees Celsius.\"",
+        "options": ["is freezing", "freezes", "froze", "freeze"],
+        "correctIndex": 1,
+        "explanation": "Une vérité scientifique générale s'exprime au present simple."
+      },
+      {
+        "question": "Choose the correct form: \"She usually ___ her homework before dinner.\"",
+        "options": ["is doing", "do", "does", "did"],
+        "correctIndex": 2,
+        "explanation": "'Usually' annonce une habitude : present simple avec -es à la 3e personne du singulier."
+      },
+      {
+        "question": "Choose the correct form: \"Be quiet, the baby ___ !\"",
+        "options": ["sleeps", "sleep", "is sleeping", "slept"],
+        "correctIndex": 2,
+        "explanation": "Une action en cours, observable au moment où l'on parle : present continuous."
+      },
+      {
+        "question": "Choose the correct form: \"They ___ to Portugal next summer — the tickets are already booked.\"",
+        "options": ["travel", "are travelling", "travelled", "travels"],
+        "correctIndex": 1,
+        "explanation": "Le present continuous peut exprimer un projet futur déjà organisé."
+      },
+      {
+        "question": "Choose the correct form: \"I ___ believe you! That's amazing news.\"",
+        "options": ["am not", "don't", "isn't", "doesn't"],
+        "correctIndex": 1,
+        "explanation": "'Believe' est un verbe d'état : il s'utilise au present simple, donc à la forme négative on emploie 'don't' (sujet 'I')."
+      }
+    ]
+  },
+  {
+    "id": "quiz-past-tenses",
+    "level": "debutant",
+    "theme": "Grammaire — Temps",
+    "title": "Past Simple ou Present Perfect ?",
+    "questions": [
+      {
+        "question": "\"I ___ my keys! I can't find them anywhere.\"",
+        "options": ["lost", "have lost", "was losing", "lose"],
+        "correctIndex": 1,
+        "explanation": "L'action passée a une conséquence visible dans le présent (les clés sont toujours perdues) : present perfect."
+      },
+      {
+        "question": "\"She ___ to Italy in 2019.\"",
+        "options": ["has travelled", "travels", "travelled", "travel"],
+        "correctIndex": 2,
+        "explanation": "La date précise '2019' impose le past simple."
+      },
+      {
+        "question": "\"___ you ever ___ sushi?\"",
+        "options": ["Did / eat", "Have / eaten", "Do / eat", "Were / eating"],
+        "correctIndex": 1,
+        "explanation": "'Ever' (déjà, jamais) est un mot-indice typique du present perfect : Have you ever eaten...?"
+      },
+      {
+        "question": "\"We ___ the museum last Saturday.\"",
+        "options": ["have visited", "visit", "visited", "visits"],
+        "correctIndex": 2,
+        "explanation": "'Last Saturday' indique un moment précis et terminé du passé : past simple."
+      },
+      {
+        "question": "\"He ___ here since 2020.\"",
+        "options": ["lived", "has lived", "lives", "is living"],
+        "correctIndex": 1,
+        "explanation": "'Since' + une date introduit une action commencée dans le passé et qui continue : present perfect."
+      },
+      {
+        "question": "\"They ___ just ___ the report.\"",
+        "options": ["have / finished", "did / finish", "has / finished", "were / finishing"],
+        "correctIndex": 0,
+        "explanation": "'Just' (à l'instant) est associé au present perfect : have/has + participe passé."
+      },
+      {
+        "question": "\"I saw that film ___.\"",
+        "options": ["ever", "since 2020", "two days ago", "already"],
+        "correctIndex": 2,
+        "explanation": "'Two days ago' marque un repère temporel précis et terminé : on utilise le past simple ('saw')."
+      },
+      {
+        "question": "\"She has never ___ a horse.\"",
+        "options": ["ridden", "rode", "rides", "riding"],
+        "correctIndex": 0,
+        "explanation": "Avec 'never' au present perfect, on utilise have/has + participe passé : 'ridden'."
+      }
+    ]
+  },
+  {
+    "id": "quiz-modals-future",
+    "level": "intermediaire",
+    "theme": "Grammaire — Modaux & futur",
+    "title": "Modaux et expression du futur",
+    "questions": [
+      {
+        "question": "\"You ___ smoke in this building — it's strictly forbidden.\"",
+        "options": ["don't have to", "mustn't", "should", "can"],
+        "correctIndex": 1,
+        "explanation": "'Mustn't' exprime une interdiction forte, ce qui correspond à 'strictly forbidden'."
+      },
+      {
+        "question": "\"I'm so tired. I think I ___ go to bed early tonight.\"",
+        "options": ["am going to", "will", "must", "can"],
+        "correctIndex": 1,
+        "explanation": "Une décision spontanée, prise au moment où l'on parle, s'exprime avec 'will'."
+      },
+      {
+        "question": "\"We've already booked the hotel — we ___ to Rome in July.\"",
+        "options": ["will go", "are going", "go", "went"],
+        "correctIndex": 1,
+        "explanation": "Un projet déjà décidé et organisé s'exprime avec le present continuous à valeur de futur."
+      },
+      {
+        "question": "\"You look exhausted. ___ you take a break?\"",
+        "options": ["Should", "Must", "Can't", "Mustn't"],
+        "correctIndex": 0,
+        "explanation": "'Should' permet de donner un conseil bienveillant."
+      },
+      {
+        "question": "\"Look at those dark clouds! It ___ rain soon.\"",
+        "options": ["will", "is going to", "can", "must"],
+        "correctIndex": 1,
+        "explanation": "'Be going to' exprime une prédiction basée sur une preuve visible dans le présent (les nuages)."
+      },
+      {
+        "question": "\"Students ___ wear a uniform at this school — it's a rule.\"",
+        "options": ["should", "have to", "could", "might"],
+        "correctIndex": 1,
+        "explanation": "'Have to' exprime une obligation imposée par une règle extérieure."
+      },
+      {
+        "question": "\"___ I open the window? It's quite hot in here.\"",
+        "options": ["Must", "Should", "May", "Mustn't"],
+        "correctIndex": 2,
+        "explanation": "'May' permet de demander une permission de manière polie."
+      },
+      {
+        "question": "\"You ___ worry — everything is under control.\"",
+        "options": ["don't have to", "mustn't", "shouldn't", "can't"],
+        "correctIndex": 0,
+        "explanation": "'Don't have to' exprime une absence d'obligation : il n'est pas nécessaire de s'inquiéter."
+      }
+    ]
+  },
+  {
+    "id": "quiz-comparatives",
+    "level": "intermediaire",
+    "theme": "Grammaire — Comparaison",
+    "title": "Comparatifs et superlatifs",
+    "questions": [
+      {
+        "question": "\"This book is ___ than the one I read last month.\"",
+        "options": ["more interesting", "interestinger", "the most interesting", "interesting"],
+        "correctIndex": 0,
+        "explanation": "'Interesting' a plus de deux syllabes : on forme le comparatif avec 'more ... than'."
+      },
+      {
+        "question": "\"It was ___ day of the whole year — over 40°C!\"",
+        "options": ["the hottest", "hotter", "the hotter", "more hot"],
+        "correctIndex": 0,
+        "explanation": "'Hot' est un adjectif court : superlatif = 'the' + adjectif + '-est' (avec doublement de la consonne)."
+      },
+      {
+        "question": "\"My sister is ___ me — we're both 1m65.\"",
+        "options": ["taller than", "as tall as", "the tallest", "more tall than"],
+        "correctIndex": 1,
+        "explanation": "Pour exprimer une égalité, on utilise 'as + adjectif + as'."
+      },
+      {
+        "question": "\"This was ___ exam I have ever taken!\"",
+        "options": ["more difficult", "the most difficult", "difficult", "the difficultest"],
+        "correctIndex": 1,
+        "explanation": "Superlatif d'un adjectif long : 'the most' + adjectif."
+      },
+      {
+        "question": "\"Choose the correct comparative of 'good':\"",
+        "options": ["gooder", "more good", "better", "the goodest"],
+        "correctIndex": 2,
+        "explanation": "'Good' a une forme comparative irrégulière : good → better → the best."
+      },
+      {
+        "question": "\"He runs ___ than anyone else in the team.\"",
+        "options": ["fast", "faster", "fastest", "more fast"],
+        "correctIndex": 1,
+        "explanation": "Adjectif/adverbe court d'une syllabe : comparatif en '-er'."
+      },
+      {
+        "question": "\"This is by far ___ restaurant in town.\"",
+        "options": ["the worse", "worse", "the worst", "more bad"],
+        "correctIndex": 2,
+        "explanation": "Superlatif irrégulier : bad → worse → the worst."
+      },
+      {
+        "question": "\"The traffic today is ___ yesterday.\"",
+        "options": ["as bad as", "worse as", "the worst than", "badder than"],
+        "correctIndex": 0,
+        "explanation": "Pour comparer une situation similaire, on utilise 'as + adjectif + as'."
+      }
+    ]
+  },
+  {
+    "id": "quiz-passive-conditionals",
+    "level": "avance",
+    "theme": "Grammaire — Passif & conditionnels",
+    "title": "Voix passive et conditionnels",
+    "questions": [
+      {
+        "question": "Turn into the passive voice: \"They built this castle in the 12th century.\" → \"This castle ___ in the 12th century.\"",
+        "options": ["was built", "is built", "built", "has been building"],
+        "correctIndex": 0,
+        "explanation": "Voix passive au passé : was/were + participe passé."
+      },
+      {
+        "question": "\"If I ___ you, I would accept the offer.\"",
+        "options": ["am", "was", "were", "will be"],
+        "correctIndex": 2,
+        "explanation": "Conditionnel type 2 : IF + past simple (avec 'were' pour tous les sujets dans un style soutenu) + would."
+      },
+      {
+        "question": "\"If she had revised more, she ___ the exam.\"",
+        "options": ["would pass", "would have passed", "will pass", "passed"],
+        "correctIndex": 1,
+        "explanation": "Conditionnel type 3 : IF + past perfect, ... would have + participe passé (regret dans le passé)."
+      },
+      {
+        "question": "\"The new bridge ___ at the moment; it should open next year.\"",
+        "options": ["is being built", "builds", "was built", "has built"],
+        "correctIndex": 0,
+        "explanation": "Voix passive au present continuous : is/are being + participe passé."
+      },
+      {
+        "question": "\"If it rains tomorrow, the match ___.\"",
+        "options": ["would be cancelled", "is cancelled", "will be cancelled", "was cancelled"],
+        "correctIndex": 2,
+        "explanation": "Conditionnel type 1 : IF + present simple, ... will + base verbale (ici à la voix passive)."
+      },
+      {
+        "question": "Reported speech: \"I am tired,\" she said. → She said (that) ___.",
+        "options": ["she is tired", "she was tired", "she will be tired", "she has been tired"],
+        "correctIndex": 1,
+        "explanation": "Concordance des temps : le présent dans le discours direct devient un prétérit dans le discours rapporté au passé."
+      },
+      {
+        "question": "\"This novel ___ by a famous author.\"",
+        "options": ["wrote", "was written", "is writing", "has write"],
+        "correctIndex": 1,
+        "explanation": "Voix passive : be + participe passé ('written'), avec complément d'agent introduit par 'by'."
+      },
+      {
+        "question": "\"If we ___ earlier, we wouldn't have missed the bus.\"",
+        "options": ["left", "have left", "had left", "would leave"],
+        "correctIndex": 2,
+        "explanation": "Conditionnel type 3 : IF + past perfect ('had left') exprime une condition irréelle dans le passé."
+      }
+    ]
+  },
+  {
+    "id": "quiz-vocab-themes",
+    "level": "avance",
+    "theme": "Vocabulaire thématique",
+    "title": "Vocabulaire : société, environnement et technologie",
+    "questions": [
+      {
+        "question": "\"The campaign aims to ___ awareness about climate change.\"",
+        "options": ["raise", "rise", "arise", "raising"],
+        "correctIndex": 0,
+        "explanation": "'To raise awareness' (sensibiliser) est l'expression correcte ; 'raise' est un verbe transitif."
+      },
+      {
+        "question": "Which word means 'a species at risk of disappearing'?",
+        "options": ["renewable", "endangered", "sustainable", "polluted"],
+        "correctIndex": 1,
+        "explanation": "'Endangered species' désigne une espèce en voie de disparition."
+      },
+      {
+        "question": "\"He spends every weekend helping at the shelter — he really likes to ___.\"",
+        "options": ["volunteer", "commute", "recycle", "broadcast"],
+        "correctIndex": 0,
+        "explanation": "'To volunteer' signifie être bénévole, donner de son temps sans contrepartie."
+      },
+      {
+        "question": "Choose the correct synonym for 'a major scientific discovery':",
+        "options": ["outcome", "breakthrough", "device", "legacy"],
+        "correctIndex": 1,
+        "explanation": "'A breakthrough' désigne une avancée ou percée majeure, notamment scientifique."
+      },
+      {
+        "question": "\"Wind and solar power are good examples of ___ energy.\"",
+        "options": ["renewable", "polluted", "artificial", "endangered"],
+        "correctIndex": 0,
+        "explanation": "'Renewable energy' est l'énergie produite à partir de ressources naturelles inépuisables (vent, soleil...)."
+      },
+      {
+        "question": "\"Many teenagers see famous athletes as ___ — people they want to imitate.\"",
+        "options": ["legacies", "role models", "outcomes", "breakthroughs"],
+        "correctIndex": 1,
+        "explanation": "'A role model' est une personne que l'on prend comme modèle ou exemple à suivre."
+      },
+      {
+        "question": "Which expression means 'to depend heavily on something'?",
+        "options": ["to rely on", "to keep up with", "to carry out", "to take a stand"],
+        "correctIndex": 0,
+        "explanation": "'To rely on something/someone' signifie compter sur, dépendre de."
+      },
+      {
+        "question": "\"The article ___ the daily life of refugees in a very moving way.\"",
+        "options": ["portrays", "pollutes", "overcomes", "argues"],
+        "correctIndex": 0,
+        "explanation": "'To portray' signifie dépeindre ou représenter une réalité, souvent dans une œuvre artistique ou un texte."
+      }
+    ]
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "id": "sheet-present",
+    "level": "debutant",
+    "theme": "Grammaire — Temps",
+    "title": "Present Simple vs Present Continuous",
+    "summary": "Bien choisir entre le présent simple et le présent en BE + V-ing.",
+    "sections": [
+      {
+        "heading": "Present Simple",
+        "content": "On utilise le present simple pour parler d'habitudes, de faits généraux, de vérités universelles ou d'horaires fixes. On ajoute -s/-es à la 3e personne du singulier.",
+        "examples": [
+          "She plays tennis every Saturday. (habitude)",
+          "Water boils at 100°C. (vérité générale)",
+          "The train leaves at 6 p.m. (horaire fixe)"
+        ]
+      },
+      {
+        "heading": "Present Continuous",
+        "content": "On utilise BE + V-ing pour parler d'une action en cours au moment où l'on parle, d'une situation temporaire, ou d'un projet futur déjà programmé.",
+        "examples": [
+          "Look! The children are playing in the garden. (action en cours)",
+          "I'm staying with my aunt this week. (situation temporaire)",
+          "We're flying to Spain next Friday. (projet futur programmé)"
+        ]
+      },
+      {
+        "heading": "Astuce méthodologique",
+        "content": "Repérez les mots-indices : 'always', 'usually', 'every day' annoncent souvent le present simple ; 'now', 'at the moment', 'currently', 'look!' annoncent le present continuous.",
+        "examples": [
+          "He usually walks to school. / He is walking to school right now."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-past",
+    "level": "debutant",
+    "theme": "Grammaire — Temps",
+    "title": "Past Simple vs Present Perfect",
+    "summary": "Distinguer une action terminée et datée d'une action liée au présent.",
+    "sections": [
+      {
+        "heading": "Past Simple",
+        "content": "On l'utilise pour une action terminée, à un moment précis et daté du passé. On l'accompagne souvent d'un repère temporel (yesterday, last week, in 2010, two days ago).",
+        "examples": [
+          "I visited London last summer.",
+          "She finished her homework an hour ago."
+        ]
+      },
+      {
+        "heading": "Present Perfect",
+        "content": "On l'utilise pour une action passée dont le moment précis n'est pas indiqué, mais dont le résultat ou les conséquences se font sentir dans le présent. On le forme avec HAVE/HAS + participe passé.",
+        "examples": [
+          "I have lost my keys! (je ne les ai toujours pas, conséquence présente)",
+          "She has already visited New York three times.",
+          "We have just finished the project."
+        ]
+      },
+      {
+        "heading": "Mots-indices à retenir",
+        "content": "Past simple : yesterday, last..., ... ago, in + année. Present perfect : already, just, never, ever, yet, since, for, recently.",
+        "examples": [
+          "I have never been to Japan.",
+          "He has worked here since 2019."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-future",
+    "level": "intermediaire",
+    "theme": "Grammaire — Temps",
+    "title": "Exprimer le futur : will, going to, present continuous",
+    "summary": "Trois manières de parler du futur, selon l'intention exprimée.",
+    "sections": [
+      {
+        "heading": "WILL",
+        "content": "Pour une prédiction sans preuve, une décision spontanée prise au moment où l'on parle, une promesse ou une offre.",
+        "examples": [
+          "I think it will rain tomorrow. (prédiction)",
+          "I'm thirsty — I'll get a glass of water. (décision spontanée)",
+          "I promise I will help you with your project."
+        ]
+      },
+      {
+        "heading": "BE GOING TO",
+        "content": "Pour une intention ou un projet déjà décidé avant le moment de la parole, ou une prédiction basée sur des indices visibles dans le présent.",
+        "examples": [
+          "We are going to move to a new flat next month. (décision déjà prise)",
+          "Look at those clouds — it's going to rain. (preuve visible)"
+        ]
+      },
+      {
+        "heading": "Present Continuous pour le futur",
+        "content": "Pour un projet personnel précis, déjà organisé, souvent avec une date ou une heure.",
+        "examples": [
+          "I'm meeting Sarah at the cinema at 8 p.m. on Friday."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-modals",
+    "level": "intermediaire",
+    "theme": "Grammaire — Modaux",
+    "title": "Les verbes modaux : can, must, should, may...",
+    "summary": "Exprimer la capacité, l'obligation, le conseil, la permission et la probabilité.",
+    "sections": [
+      {
+        "heading": "Capacité et permission",
+        "content": "CAN / COULD expriment la capacité (présent / passé) ou demandent une permission de façon informelle. MAY est plus formel pour la permission.",
+        "examples": [
+          "She can speak three languages.",
+          "Could I borrow your pen, please?",
+          "May I come in?"
+        ]
+      },
+      {
+        "heading": "Obligation et interdiction",
+        "content": "MUST exprime une obligation forte (souvent personnelle) ; HAVE TO une obligation imposée de l'extérieur ; MUSTN'T exprime une interdiction, alors que DON'T HAVE TO exprime une absence d'obligation.",
+        "examples": [
+          "I must finish this essay tonight. (obligation personnelle)",
+          "Students have to wear a uniform at this school. (règle externe)",
+          "You mustn't talk during the exam. (interdiction)",
+          "You don't have to come if you're tired. (pas d'obligation)"
+        ]
+      },
+      {
+        "heading": "Conseil et probabilité",
+        "content": "SHOULD / OUGHT TO donnent un conseil. MAY / MIGHT / COULD expriment une probabilité, une possibilité.",
+        "examples": [
+          "You should get some rest before the exam.",
+          "It might rain later, so take an umbrella."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-comparatives",
+    "level": "intermediaire",
+    "theme": "Grammaire — Comparaison",
+    "title": "Comparatifs et superlatifs",
+    "summary": "Comparer deux ou plusieurs éléments correctement.",
+    "sections": [
+      {
+        "heading": "Adjectifs courts (1 syllabe)",
+        "content": "Comparatif : adjectif + -er + than. Superlatif : the + adjectif + -est.",
+        "examples": [
+          "My brother is taller than me.",
+          "This is the fastest car in the race."
+        ]
+      },
+      {
+        "heading": "Adjectifs longs (2 syllabes ou plus)",
+        "content": "Comparatif : more + adjectif + than. Superlatif : the most + adjectif.",
+        "examples": [
+          "This exercise is more difficult than the previous one.",
+          "It was the most exciting film I have ever seen."
+        ]
+      },
+      {
+        "heading": "Formes irrégulières et expressions utiles",
+        "content": "Quelques adjectifs ont des formes irrégulières : good → better → the best ; bad → worse → the worst ; far → further → the furthest. Pour exprimer l'égalité, on utilise as + adjectif + as.",
+        "examples": [
+          "This year's results are better than last year's.",
+          "She is as tall as her older sister."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-passive",
+    "level": "avance",
+    "theme": "Grammaire — Voix passive",
+    "title": "La voix passive",
+    "summary": "Mettre l'accent sur l'action ou sur celui qui la subit plutôt que sur celui qui l'accomplit.",
+    "sections": [
+      {
+        "heading": "Formation",
+        "content": "On forme la voix passive avec BE (conjugué au temps voulu) + participe passé. Le complément d'agent (by + nom) est facultatif et souvent omis lorsqu'il n'est pas important.",
+        "examples": [
+          "Active: The company launched a new product. → Passive: A new product was launched (by the company).",
+          "Active: They are building a new bridge. → Passive: A new bridge is being built."
+        ]
+      },
+      {
+        "heading": "Quand utiliser le passif ?",
+        "content": "On utilise la voix passive lorsque l'auteur de l'action est inconnu, évident ou sans importance, ou pour adopter un style plus formel et objectif (rapports, articles scientifiques, presse).",
+        "examples": [
+          "The bridge was built in 1920. (on ne sait pas / peu importe qui)",
+          "Mistakes were made during the process. (style impersonnel)"
+        ]
+      },
+      {
+        "heading": "Astuce méthodologique",
+        "content": "Pour transformer une phrase active en phrase passive : le COD devient sujet, le verbe devient BE + participe passé, et le sujet de la phrase active devient un complément d'agent introduit par 'by'.",
+        "examples": [
+          "Active: Shakespeare wrote 'Hamlet'. → Passive: 'Hamlet' was written by Shakespeare."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-conditionals",
+    "level": "avance",
+    "theme": "Grammaire — Hypothèses",
+    "title": "Les conditionnels (type 1, 2 et 3)",
+    "summary": "Exprimer une condition réelle, hypothétique ou irréelle dans le passé.",
+    "sections": [
+      {
+        "heading": "Conditionnel type 1 — futur probable",
+        "content": "IF + present simple, ... will + base verbale. On exprime une condition réaliste dont la conséquence est probable dans le futur.",
+        "examples": [
+          "If it rains tomorrow, we will stay at home."
+        ]
+      },
+      {
+        "heading": "Conditionnel type 2 — hypothèse présente/future",
+        "content": "IF + past simple, ... would + base verbale. On exprime une situation imaginaire, peu probable ou contraire à la réalité présente.",
+        "examples": [
+          "If I had more time, I would learn another language.",
+          "If she were taller, she could be a basketball player."
+        ]
+      },
+      {
+        "heading": "Conditionnel type 3 — regret / hypothèse passée",
+        "content": "IF + past perfect, ... would have + participe passé. On exprime un regret ou une situation imaginaire dans le passé, impossible à changer.",
+        "examples": [
+          "If I had studied harder, I would have passed the exam.",
+          "If they had left earlier, they wouldn't have missed the train."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-reported-speech",
+    "level": "avance",
+    "theme": "Grammaire — Discours rapporté",
+    "title": "Le discours rapporté (reported speech)",
+    "summary": "Rapporter les paroles de quelqu'un en respectant la concordance des temps.",
+    "sections": [
+      {
+        "heading": "La concordance des temps",
+        "content": "Lorsque le verbe introducteur est au passé, les temps reculent généralement d'un cran : present simple → past simple ; present perfect → past perfect ; will → would ; can → could.",
+        "examples": [
+          "\"I am tired,\" she said. → She said (that) she was tired.",
+          "\"I will call you,\" he said. → He said (that) he would call me.",
+          "\"I have finished,\" they said. → They said (that) they had finished."
+        ]
+      },
+      {
+        "heading": "Questions et ordres rapportés",
+        "content": "Les questions rapportées suivent l'ordre sujet-verbe (pas d'inversion) et utilisent if/whether pour les questions fermées. Les ordres se rapportent avec told/asked + COD + to + base verbale.",
+        "examples": [
+          "\"Are you coming?\" she asked. → She asked if I was coming.",
+          "\"Close the door,\" he said. → He told me to close the door."
+        ]
+      },
+      {
+        "heading": "Changements de repères",
+        "content": "Certains mots changent selon le contexte : today → that day ; tomorrow → the next day ; yesterday → the day before ; here → there ; this → that.",
+        "examples": [
+          "\"I'll see you tomorrow,\" she said. → She said she would see me the next day."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheet-bac-method",
+    "level": "avance",
+    "theme": "Méthodologie — Bac",
+    "title": "Réussir l'épreuve d'anglais au bac",
+    "summary": "Conseils pratiques pour la compréhension écrite/orale et l'expression écrite.",
+    "sections": [
+      {
+        "heading": "Compréhension de l'écrit",
+        "content": "Lisez d'abord le titre, la source et l'introduction pour identifier le contexte (qui, quoi, où, quand). Repérez les connecteurs logiques (however, therefore, although) qui structurent l'argumentation, puis relisez pour les détails.",
+        "examples": [
+          "Identifiez : la nature du document, le narrateur ou l'auteur, le ton (humoristique, critique, neutre...)."
+        ]
+      },
+      {
+        "heading": "Compréhension de l'oral",
+        "content": "Lors de la première écoute, concentrez-vous sur le sens général (de quoi/qui parle-t-on ?). Lors de la deuxième écoute, notez des mots-clés et des détails précis (chiffres, noms, lieux, opinions exprimées).",
+        "examples": [
+          "Notez systématiquement : speaker(s), topic, tone, key facts, opinions."
+        ]
+      },
+      {
+        "heading": "Expression écrite",
+        "content": "Structurez votre texte : une introduction qui présente le sujet, des paragraphes argumentés avec des exemples concrets, et une conclusion qui répond à la problématique. Utilisez des connecteurs logiques pour lier vos idées.",
+        "examples": [
+          "Connecteurs utiles : firstly / moreover / however / for instance / in conclusion."
+        ]
+      },
+      {
+        "heading": "Expression orale",
+        "content": "Préparez une présentation claire avec un fil conducteur, illustrez vos propos avec des exemples personnels ou tirés des documents étudiés, et entraînez-vous à react à des questions de l'examinateur.",
+        "examples": [
+          "Structure utile : introduction du sujet → développement avec exemples → ouverture/avis personnel."
+        ]
+      }
+    ]
+  }
+]
